@@ -5,7 +5,7 @@ public class BasicSwitchBreaks {
         int a = 20;
         switch (a) {
             case 7:
-                System.out.println("seven");
+                System.out.println("seven ");
             case 10:
                 System.out.println("ten");
             case 20:
